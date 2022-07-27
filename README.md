@@ -1,1 +1,1 @@
-# Understanding-Oracle-SQLcl
+# Understanding Oracle SQLcl
