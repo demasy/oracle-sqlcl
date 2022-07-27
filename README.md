@@ -13,3 +13,26 @@ https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/
 
 Latest version update <br>
 https://download.oracle.com/otn_software/java/sqldeveloper/sqlcl-latest.zip
+
+
+<br>
+
+## Install Oracle SQLcl & Connect on Database
+
+<br>
+
+```shell
+sudo java --version
+```
+
+```shell
+which java
+```
+
+```shell
+cd /<$FILE_PATH>/sqlcl/bin
+```
+
+```shell
+./sql <$USER_NAME>/<$PASSWORD>@<$HOST>:<$PORT>/<$SID>
+```
