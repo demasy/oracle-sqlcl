@@ -4,3 +4,12 @@ Oracle SQL Developer Command Line (SQLcl) is a free command line interface for O
 https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/
 
 <br>
+
+
+## Download
+
+Downloads <br>
+https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/
+
+Latest version update <br>
+https://download.oracle.com/otn_software/java/sqldeveloper/sqlcl-latest.zip
