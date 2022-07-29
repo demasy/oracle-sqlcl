@@ -5,6 +5,46 @@ https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/
 
 <br>
 
+## Key Features
+
+**In-Line Editor**
+
+edit multi-line statements and scripts interactively at the SQLcl prompt
+
+**Change Management**
+
+native Liquibase integration, with automatic changelog generation for your Oracle Database objects
+
+
+**Command History**
+
+cycle through your 100 previous scripts/commands
+
+
+**Completion Insight**
+
+auto-complete object names or keywords using the tab key
+
+
+**New Commands**
+
+CTAS, DLL, Repeat, ALIAS, SCRIPT, FORMAT, and many more!
+
+
+
+**Client Side Scripting**
+
+execute javascript to manipulate query results, build dynamic commands, interact with the session, and much more
+
+
+**SQL*Plus Support**
+
+SQL*Plus environment settings, commands, and behaviors
+
+
+
+<br>
+
 
 ## Download
 
