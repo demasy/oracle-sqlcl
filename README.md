@@ -76,3 +76,20 @@ cd /<$FILE_PATH>/sqlcl/bin
 ```shell
 ./sql <$USER_NAME>/<$PASSWORD>@<$HOST>:<$PORT>/<$SID>
 ```
+
+
+<br>
+
+## SQLcl Documentation
+
+Release Documentation <br>
+https://docs.oracle.com/en/database/oracle/sql-developer-command-line/
+
+Command-Line Reference <br>
+https://docs.oracle.com/en/database/oracle/sql-developer-command-line/20.2/sqcug/working-sqlcl.html#GUID-DB0D123B-AFA1-4C5A-AB2A-A7B59863C9B9
+
+FAQ <br>
+https://www.oracle.com/database/technologies/appdev/sqlcl/sqlcl-faq.html
+
+Release Notes <br>
+https://www.oracle.com/tools/sqlcl/sqlcl-relnotes-202.html
