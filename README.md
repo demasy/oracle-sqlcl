@@ -80,6 +80,19 @@ cd /<$FILE_PATH>/sqlcl/bin
 
 <br>
 
+## Start SQLcl
+
+```shell
+./sql
+```
+
+```shell
+./sql /nolog
+```
+
+
+<br>
+
 ## SQLcl Documentation
 
 - <a href="https://docs.oracle.com/en/database/oracle/sql-developer-command-line/">Release Documentation</a>
