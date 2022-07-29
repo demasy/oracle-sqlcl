@@ -48,12 +48,8 @@ SQL*Plus environment settings, commands, and behaviors
 
 ## Download
 
-Downloads <br>
-https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/
-
-Latest version update <br>
-https://download.oracle.com/otn_software/java/sqldeveloper/sqlcl-latest.zip
-
+- <a href="https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/">Downloads</a>
+- <a href="https://download.oracle.com/otn_software/java/sqldeveloper/sqlcl-latest.zip">Latest version update</a>
 
 <br>
 
