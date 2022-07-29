@@ -82,14 +82,7 @@ cd /<$FILE_PATH>/sqlcl/bin
 
 ## SQLcl Documentation
 
-Release Documentation <br>
-https://docs.oracle.com/en/database/oracle/sql-developer-command-line/
-
-Command-Line Reference <br>
-https://docs.oracle.com/en/database/oracle/sql-developer-command-line/20.2/sqcug/working-sqlcl.html#GUID-DB0D123B-AFA1-4C5A-AB2A-A7B59863C9B9
-
-FAQ <br>
-https://www.oracle.com/database/technologies/appdev/sqlcl/sqlcl-faq.html
-
-Release Notes <br>
-https://www.oracle.com/tools/sqlcl/sqlcl-relnotes-202.html
+- <a href="https://docs.oracle.com/en/database/oracle/sql-developer-command-line/">Release Documentation</a>
+- <a href="https://docs.oracle.com/en/database/oracle/sql-developer-command-line/20.2/sqcug/working-sqlcl.html#GUID-DB0D123B-AFA1-4C5A-AB2A-A7B59863C9B9">Command-Line Reference</a>
+- <a href="https://www.oracle.com/database/technologies/appdev/sqlcl/sqlcl-faq.html">FAQ</a>
+- <a href="https://www.oracle.com/tools/sqlcl/sqlcl-relnotes-202.html">Release Notes</a>
