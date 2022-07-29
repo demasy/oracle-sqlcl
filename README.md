@@ -73,6 +73,15 @@ cd /<$FILE_PATH>/sqlcl/bin
 ./sql <$USER_NAME>/<$PASSWORD>@<$HOST>:<$PORT>/<$SID>
 ```
 
+<br>
+
+### Install Oracle SQLcl with Brew (Homebrew)
+
+
+```shell
+brew install --cask sqlcl
+```
+https://formulae.brew.sh/cask/sqlcl
 
 <br>
 
