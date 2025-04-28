@@ -100,12 +100,12 @@ https://formulae.brew.sh/cask/sqlcl
 
 ### Add to PATH
 ```shell
-export PATH="$PATH:/Users/Shared/data/MacBookPro/app/oracle/sqlcl/bin"
+export PATH="$PATH:<Your Path>/sqlcl/bin"
 ```
 
 ### Create symlink
 ```shell
-sudo ln -s /Users/Shared/data/MacBookPro/app/oracle/sqlcl/bin /usr/local/bin/sql
+sudo ln -s <Your Path>/sqlcl/bin /usr/local/bin/sql
 ```
 
 ### Start SQLcl
