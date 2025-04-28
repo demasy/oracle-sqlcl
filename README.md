@@ -94,7 +94,24 @@ https://formulae.brew.sh/cask/sqlcl
 ```shell
 ./sql /nolog
 ```
+<br>
 
+## Create a symbolic link (symlink)
+
+### Add to PATH
+```shell
+export PATH="$PATH:/Users/Shared/data/MacBookPro/app/oracle/sqlcl/bin"
+```
+
+### Create symlink
+```shell
+sudo ln -s /Users/Shared/data/MacBookPro/app/oracle/sqlcl/bin /usr/local/bin/sql
+```
+
+### Start SQLcl
+```shell
+sql ${username}/${password}@localhost:1521/FREE as sysdba
+```
 
 <br>
 
