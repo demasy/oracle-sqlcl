@@ -1,5 +1,6 @@
-# Understanding Oracle SQLcl
-Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database. It allows you to interactively or batch execute SQL and PL/SQL. SQLcl provides in-line editing, statement completion, and command recall for a feature-rich experience, all while also supporting your previously written SQL*Plus scripts.
+# SQLcl (SQL Developer Command Line)
+
+Oracle **SQLcl** (SQL Developer Command Line) is a modern, free command-line interface for Oracle Database, serving as a lightweight alternative to SQLPlus. It allows you to execute SQL and PL/SQL interactively or run scripts in batch. **SQLcl** enhances productivity with features from Oracle SQL Developer, including in-line editing, tab completion, command history, command recall for a feature-rich experience, and support for running existing SQLPlus scripts.
 
 https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/
 
